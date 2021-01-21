@@ -10,11 +10,7 @@ const Featured=()=>{
 
             <div className="event_name">
                 <div className="wrapper">
-<<<<<<< HEAD
-                    {/* Opening Day */}
-=======
                     {/* Opening Day  */}
->>>>>>> 1d318f019fbf05dcfeae9c3eafbfd49fdd57250e
                 </div>
             </div>
 
