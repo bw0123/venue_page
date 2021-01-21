@@ -6,7 +6,7 @@ body {
 }
 
 .font_righteous {
-    font-family: 'Hind', sans-serif;
+    font-family: 'Righteous', cursive;
 }
 
 .bck_black {
@@ -74,13 +74,20 @@ footer .footer_copyright {
     font-size: 18px;
     text-align: center;
 }
+footer ul li{
+    list-style: none;
+    margin-left: 16px;
+}
 
+<<<<<<< HEAD
 footer ul a{
     margin: 20px;
     padding-right: 10px;
     color: white;
 }
 
+=======
+>>>>>>> 1d318f019fbf05dcfeae9c3eafbfd49fdd57250e
 #fb:hover {
     color: #3B5998;
   }
