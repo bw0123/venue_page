@@ -7,10 +7,10 @@ import Featured from './components/featured';
 import VunueNfo from './components/venueNfo';
 import Highlight from './components/Highlights';
 import Pricing from './components/pricing';
+import Bios from './components/artistBios/Bios';
 import Location from './components/location';
 import Faq from './components/faq/Faq';
 import Footer from './components/header_footer/Footer';
-
 
 class App extends Component {
   render() {
@@ -32,6 +32,10 @@ class App extends Component {
 
         <Element name="pricing">
           <Pricing/>
+        </Element>
+
+        <Element name="artistBios">
+          <Bios/>
         </Element>
 
         <Element name="location">
