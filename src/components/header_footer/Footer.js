@@ -4,10 +4,7 @@ import Fade from 'react-reveal/Fade';
 const Footer=()=>{
     return(
         <footer>
-<<<<<<< HEAD
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></link>
-=======
->>>>>>> 1d318f019fbf05dcfeae9c3eafbfd49fdd57250e
             <Fade delay={500}>
                 <div className="font_righteous footer_logo_venue">
                 Barclays Center Music
